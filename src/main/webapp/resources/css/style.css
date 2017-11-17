@@ -1,0 +1,130 @@
+.cadastro{
+    margin: 0 auto;
+    margin-top: 20px;
+    float: none;
+    position: relative;
+    width: 400px;
+    padding: 20px;
+
+}
+
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-contentPainel {
+    padding-left: 20%;
+    padding-right: 0px;
+    margin-top: 8%;
+    align-content: center;
+}
+.body-contentListaPortfolio{
+    padding-bottom: 10%;
+    padding-left: 16%;
+    margin-top: 4%;
+    width: 50%;
+    
+    
+    
+}
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+
+
+/* Set width on the form input elements since they're 100% wide by default */
+input
+select,
+textarea {
+    max-width: 280px;
+}
+.body-content.FundoTitulo {
+    background: url('../Image/Feevale .jpg');
+    height: 450px;
+
+}
+
+.MenuSuperior > li > a {
+    color: #ffffff !important;
+    
+}
+
+.BarraSuperior {
+    background: -moz-linear-gradient(		
+		#04c61d  0%,
+		#146600);   
+    border: #ffffff !important;
+    font-size: 100% !important;
+    font-weight: bold !important;
+       
+    }
+    
+ .tituloPagina{
+     color: #ffffff !important;
+     font-size: 110% !important;
+     font-weight: bold !important;
+    
+    }
+
+.Botoes {
+        position: relative;
+	font-size: 15px;
+	color: #ffffff;
+	padding: 6px 30px;
+	background: -moz-linear-gradient(		
+		#42ff42 0%,
+		#146600);
+	border-radius: 8px;
+        border: 10px #ffffff !important;
+        margin-left: 8px;
+
+}
+
+.Botoes1 {
+    background-color: #04c61d !important;
+    color: #ffffff !important;
+    border: #ffffff !important;
+     
+}
+
+.Botoes:hover {
+    background-color: #00620b !important;  
+}
+
+
+.FundoTitulo h1 {
+    text-shadow: 1px 1px #ffffff;
+}
+
+.FundoLetras {
+     opacity: 1 !important;
+}
+
+.BotaoCanvas{
+    margin-top:30px !important;
+ }
+
+
+.page-content-wrapper {
+    width: 100%;
+    position: absolute;
+    padding: 15px;
+}
+
+
+.botaoProjetos{
+    background: url('http://cdn5.seomaster.com.br/wp-content/uploads/2015/01/icon-mensuracao.png');
+
+}
+
+
+.rodape {
+    position: absolute;
+
+}
